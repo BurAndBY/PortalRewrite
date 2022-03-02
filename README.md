@@ -5,7 +5,10 @@
 
 Porting Portal on PSVita 
 
-
+## Excursion
+### [Current Issues](https://github.com/BurAndBY/PortalRewrite/issues)
+### [Kanban board](https://github.com/BurAndBY/PortalRewrite/projects/2)
+### [Discussion board (you can ask for features here!)](https://github.com/BurAndBY/PortalRewrite/discussions)
 ## Features
 
 - Menu based on Portal: Still Alive 
